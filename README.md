@@ -22,8 +22,10 @@ Se você está tão apaixonado por tecnologia quanto eu, adoraria trocar ideias,
 
 💼 Meu perfil no LinkedIn é o lugar onde compartilho insights, projetos e experiências. Se você estiver interessado em colaborar, aprender ou apenas bater um papo sobre desenvolvimento e tecnologia, sinta-se à vontade para me adicionar.
 
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/eduardo-ferraz-85a374119/)" alt="LinkedIn"/></a>
+ <a href="https://www.linkedin.com/in/eduardo-ferraz-85a374119/">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
 
 Mal posso esperar para expandir nossa rede! 🌟
 
